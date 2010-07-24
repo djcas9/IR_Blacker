@@ -50,4 +50,4 @@ server-tree:
     active:
       color: '#4E4E4E'
     inactive:
-      color: '#888'
+      color: '#353535'
